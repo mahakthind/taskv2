@@ -1,0 +1,49 @@
+/* Mahakdeep Kaur - 8923181 */
+body {
+    font: 16px Arial, sans-serif;
+    background-color: hsla(75, 96%, 42%, 0.7);
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  h2 {
+    color: #369;
+    font-size: 1.5rem;
+  }
+  
+  header{
+    background-color:hsl(200, 79%, 28%) ;
+  }
+  main{
+    float : left;
+    width : 65vw;
+
+    background-color:hsl(200, 79%, 28%) ;
+  }
+  aside{
+    float : right;
+    width : 25vw;
+    background-color:hsl(94, 79%, 28%) ;
+  }
+  footer{
+    clear :both;
+    background-color:hsl(301, 79%, 28%) ;
+  }
+.structural{
+  padding : 10px;
+  margin : 10px;
+  border : 2px solid black;
+}
+#para1{
+  color : rgb(7, 123, 44)
+}
+#para2{
+  color : rgb(102, 20, 146)
+}
+a:hover{
+ color : #09c
+}
+  footer p{
+    font-size: .70em;
+
+  }
